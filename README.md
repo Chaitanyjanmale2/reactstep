@@ -8,5 +8,6 @@ Clone the project.
 
 Run <code>npm install</code> to install the corresponding node packages
 
-Run <code>npm start</code> to run the app on http://localhost:3000
+Run <code>npm start</code> to run the app on http://localhost:3000 /n
+
 live link http://stepsform.herokuapp.com/
